@@ -1,0 +1,331 @@
+a{
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 0 20px;
+  letter-spacing: .1rem;
+}
+h1{
+  font-family:'Cormorant Garamond', serif;
+  color: white;
+  font-size: 10rem;
+  letter-spacing: 1rem;
+  margin: 20px auto;
+}
+h2{
+  font-family:'Barlow Condensed', sans-serif;
+  color: #D2DAFF;
+  font-size: 1.875rem;
+  letter-spacing: .2rem;
+}
+h3{
+  font-family:'Raleway', sans-serif;
+  color: #D2DAFF;
+  font-size: 16px;
+  letter-spacing:.1rem;
+  line-height: 1.7rem;
+  width: 95%
+}
+hr{
+  border-style: solid;
+  color: white;
+  margin: 0 42.1875rem auto auto;
+  width: 9%;
+}
+p{
+  font-family:'Barlow Condensed', sans-serif;
+  color: white;
+}
+.avg-dist{
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+.bg-crew{
+  background-image: url(../assets/crew/background-crew-desktop.jpg);
+  margin: 0;
+  background-attachment: fixed;
+}
+.bg-home{
+  background-image: url(../assets/home/background-home-desktop.jpg);
+  margin: 0;
+}
+.bg-destination{
+  background-image: url(../assets/destination/background-destination-desktop.jpg);
+  background-attachment: fixed;
+}
+.bg-tech{
+  background-image: url(../assets/technology/background-technology-desktop.jpg);
+  margin: 0;
+  background-attachment: fixed;
+}
+.blur{
+  margin-bottom: 0;
+  margin-top: 3%;
+  margin-left: 40%;
+  text-decoration: none;
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(15px);
+  height: 100%;
+  padding-left: 7%;
+}
+
+.circle{
+  border-radius: 50%;
+  background: white;
+  color: black;
+  display: inline-block;
+  float: right;
+  font-family:'Cormorant Garamond', serif;
+  margin: 14% 9% auto auto;
+  height: 18.75rem;
+  width: 18.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 200%
+}
+.circle-btn{
+  background-color: #606060;
+  border-radius: 50%;
+  display: inline-block;
+  padding: 0;
+  margin-right: 20px;
+  height: 17px;
+  width: 17px;
+}
+.circle-btn-this{
+  background-color: white;
+  border-radius: 50%;
+  display: inline-block;
+  padding: 0;
+  margin-right: 20px;
+  height: 17px;
+  width: 17px;
+}
+.crew-info{
+  display: inline-block;
+  margin: 120px auto 0 7.5rem;
+  position: absolute;
+  width: 40%;
+  text-align: left;
+}
+.crew-name{
+  color: white;
+  font-size:50px;
+  letter-spacing: .2rem;
+  margin-left: 0;
+  text-align: left;
+  width: 800px;
+}
+.crew-pic{
+  display: inline-block;
+  float: right;
+  margin: 0;
+}
+.crew-text{
+  margin: auto 0 90px 0;
+  width: 110%;
+}
+.crew-title{
+  color: gray;
+  font-size: 2.5rem;
+  letter-spacing: .2rem;
+  width: 600px;
+}
+.destination{
+  color: white;
+  font-size: 1.56rem;
+  margin: 3.75rem auto 0 7.5rem;
+  width: 50%;
+}
+.distance{
+  display: inline-block;
+  margin: 425px auto auto 150px;
+  position: absolute;
+  width: 200px;
+}
+.dist-num{
+  font-size: 35px;
+  letter-spacing: .05rem;
+  margin-top: 0;
+}
+.est-trav{
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+.europa-btn-hr{
+  border-style: solid;
+  color: white;
+  margin: 0.75rem 17.375rem auto auto;
+  width: 11%;
+}
+.explore-btn{
+  color: black;
+}
+.hr-crew{
+  border-style: solid;
+  color: white;
+  margin: 0 25.563rem auto auto;
+  width: 8.5%;
+}
+.hr-moon{
+  border-style: solid;
+  color: white;
+  margin: 0 32.1875rem auto auto;
+  width: 15%;
+}
+.hr-tech{
+  border-style: solid;
+  color: white;
+  margin: 0 250px auto auto;
+  width: 15.5%;
+}
+.lower-moon-hr{
+  border-style: solid;
+  color: white;
+  margin: 10% 32.1875rem auto auto;
+  width: 80%;
+}
+.mars-btn-hr{
+  border-style: solid;
+  color: white;
+  margin: 0.75rem 23.625rem auto auto;
+  width: 7.5%;
+}
+.menu{
+  height: 6.5rem;
+  line-height: 6.25rem;
+  font-family:'Barlow Condensed', sans-serif;
+}
+.moon-btn{
+  padding-left: 0;
+}
+.moon-btn-hr{
+  border-style: solid;
+  color: white;
+  margin: 0.75rem 32.1875rem auto auto;
+  width: 7.5%;
+}
+.moon-info{
+  display: inline-block;
+  padding-left: 150px;
+  position: absolute;
+  width: 35%;
+  text-align: left;
+}
+.moon-text{
+  width: 80%;
+}
+.moon-title{
+  font-family:'Cormorant Garamond', serif;
+  color: white;
+  font-size: 6rem;
+  letter-spacing: .5rem;
+  margin: 20px auto;
+}
+.one{
+  color: gray;
+}
+.planet-menu{
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  font-family:'Barlow Condensed', sans-serif;
+  padding: 0;
+  letter-spacing: .1rem;
+}
+.planet-pic{
+  display: inline-block;
+  margin: 6% 9% 0 9%;
+}
+.tech-btn{
+  background-color: none;
+  border-style: solid;
+  border-radius: 50%;
+  display: flex;
+  font-size: 35px;
+  padding: 0;
+  margin: 20px 0 0 20px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  height: 80px;
+  width: 80px;
+}
+.tech-btn-this{
+  background-color: white;
+  border-style: solid;
+  border-radius: 50%;
+  color: black;
+  display: flex;
+  font-size: 35px;
+  padding: 0;
+  margin: 20px 0 0 20px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  height: 80px;
+  width: 80px;
+}
+.tech-info{
+  display: inline-block;
+  margin: 100px auto 0 0;
+  position: absolute;
+  width: 32%;
+  text-align: left;
+}
+.tech-pages{
+  float: left;
+  width: 10%;
+  margin: 100px 40px 0 140px;
+}
+.tech-thing{
+  color: white;
+  font-size:50px;
+  letter-spacing: .2rem;
+  margin-left: 0;
+  margin-top: 0;
+  text-align: left;
+  width: 800px;
+}
+.terminology{
+  color: #D2DAFF;
+  font-size: 1.2rem;
+  letter-spacing: .2rem;
+  margin-bottom: 0;
+  width: 600px;
+}
+.titan-btn-hr{
+  border-style: solid;
+  color: white;
+  margin: 0.75rem 12rem auto auto;
+  width: 7.5%;
+}
+.title{
+  display: inline-block;
+  width: 50%;
+}
+.travel{
+display: inline-block;
+float: left;
+padding-left: 10%;
+margin-top: 7.5rem;
+width: 40%;
+font-size: 150%
+}
+.travel-time{
+  display: inline-block;
+  margin: 425px auto auto 400px;
+  position: absolute;
+  width: 200px;
+}
+.trav-num{
+  font-size: 35px;
+  letter-spacing: .05rem;
+  margin-top: 0;
+}
+.vehicle-pic{
+  display: inline-block;
+  float: right;
+  margin: 0;
+}
